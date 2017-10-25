@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  *
- * @author s528130
+ * @author Santosh Goteti
  */
 public class Main {
 
